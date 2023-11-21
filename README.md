@@ -1,2 +1,2 @@
-Our team: DOSSOU Sourou Ella DOSSOU, DEKADJEVI Christella
+DEKADJEVI Christella
 C - Sorting algorithms & Big O
